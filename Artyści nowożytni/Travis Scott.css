@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    font-size: 11px;
+    color: #ffffff;
+    background: #202020 url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/53ef13fe-f127-4c84-afe0-83a8cddc017b/de24ofh-e1c3db09-17b7-43db-830a-7501adfa9453.png/v1/fill/w_1280,h_854,q_80,strp/travis_scott_wallpaper_desktop_by_simbler5_de24ofh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvNTNlZjEzZmUtZjEyNy00Yzg0LWFmZTAtODNhOGNkZGMwMTdiXC9kZTI0b2ZoLWUxYzNkYjA5LTE3YjctNDNkYi04MzBhLTc1MDFhZGZhOTQ1My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UmOfriM4ZZk92R11JdNYSQ0G-YId0kA6u3ZhJ6V4F0k) no-repeat top center fixed;
+    background-size: cover;
+    padding: 200px;
+    text-align:center;
+    
+    
+}
+
+#icons {
+    position: absolute;
+    bottom: 22%;
+    right: 8%;
+    width: 400px;
+    height: 80px;
+    z-index: 8;
+    transform: rotate(-57deg); 
+    -ms-transform: rotate(-57deg); 
+    -webkit-transform: rotate(-57deg); 
+    -moz-transform: rotate(-57deg);
+}
+
+#contact { 
+    float: left; 
+    cursor: pointer; 
+}
+
+
+img { 
+    max-width: 100%; 
+    height: auto; 
+}
+
+a{
+    font-size: 50px;
+    color: white;
+}
